@@ -1,4 +1,4 @@
-This shouldn't be here.
+Hello, worlds of all shapes and sizes! Conflict resolved!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
